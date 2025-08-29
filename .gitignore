@@ -1,0 +1,14 @@
+# venv
+venv/
+.venv
+
+# env
+.env
+
+# data
+user_keys/
+notes/
+
+# cache
+__pycache__/
+*.pyc
