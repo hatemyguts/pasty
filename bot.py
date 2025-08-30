@@ -167,7 +167,6 @@ async def about(interaction: discord.Interaction):
         description=(
             "pasty is a secure note bot that lets you create, edit, view, and download private notes.\n"
             "all notes are encrypted per-user with fernet, so only you can access your own data.\n\n"
-            "made with 💛 by lucy."
         ),
         color=discord.Color.yellow()
     )
